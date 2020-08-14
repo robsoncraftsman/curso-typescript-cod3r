@@ -7,7 +7,7 @@
     "strict": true,
     "sourceMap": true,
     "esModuleInterop": true,
-    "noEmitOnError": true,
+    "noEmitOnError": false,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
   }
